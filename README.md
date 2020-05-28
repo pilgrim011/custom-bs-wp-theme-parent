@@ -1,0 +1,1 @@
+Parent theme for custom-bs-wp-theme-child
